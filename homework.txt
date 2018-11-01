@@ -1,0 +1,2 @@
+1. Przygotuj rolę dla funkcji lambda: policy dla (S3) czytania pliku, listowanie zawartości bucketa
+2. WIF playground (w IAM)
